@@ -42,7 +42,7 @@ You can choose to stay in a hotel close to the Garden such as the [Falko hotel](
 |---|---|---|---|
 |1|Finding the lost parents|MBG ([Quentin Groom)](mailto:quentin.groom@plantentuinmeise.be)|SIB, GBIF, COL, Plazi, Wikidata|
 |2|How good are Triple IDs in ENA?|BGBM [(Jörg Holetschek)](mailto:J.Holetschek@bgbm.org)|ENA, GBIF|
-|3|Enhance the GBIF clustering algorithms|GBIF [(Tim Robertson)](mailto:trobertson@gbif.org)||
+|3|Enhance the GBIF clustering algorithms|GBIF [(Tim Robertson)](mailto:trobertson@gbif.org)|GBIF, ALA, DiSSCo, Kew|
 |4|Assigning latin scientific names to OTUs based on sequence clusters|GBIF [(Thomas Jeppesen)](mailto:tsjeppesene@gbif.org)|UNITE/PlutoF, COL|
 |5|Registering biodiversity-related vocabulary as Wikidata lexemes and link their senses to Wikidata items|Pensoft [(Daniel Mietchen)](mailto:d.mietchen@riojournal.com)|Wikidata, Plazi, COL|
 |6|FAIR Digital Object design from multiple sources|Naturalis ([Sharif Islam](mailto:sharif.islam@naturalis.nl), [Wouter Addink](mailto:wouter.addink@naturalis.nl))|TDWG, GBIF, ENA, OpenBiodiv, DiSSCo|
